@@ -1,0 +1,23 @@
+[
+  {
+    "date": "2015-05-12",
+    "amount": 50.32,
+    "description": "Purchase of Office Chair",
+    "notes": "Product Delivery Confirmed",
+    "netD": 30
+  },
+  {
+    "date": "2015-05-23",
+    "amount": 30.11,
+    "description": "Purchase of Pen Set",
+    "notes": "Product Delivery Confirmed",
+    "netD": 30
+  },
+  {
+    "date": "2015-05-25",
+    "amount": -50.32,
+    "description": "Bill Payment",
+    "notes": "Credit Card xxxx4353",
+    "netD": 0
+  }
+]

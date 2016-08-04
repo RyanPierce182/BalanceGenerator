@@ -1,0 +1,14 @@
+{
+  "2013-02-22": {
+    "overduePercentage": 0.05,
+    "minOverdueCharge": 2.00,
+    "daysOverdueForRep": 14,
+    "daysOverdueForAgency": 28
+  },
+  "2014-02-22": {
+    "overduePercentage": "Not Viable",
+    "minOverdueCharge": 3.00,
+    "daysOverdueForRep": 14,
+    "daysOverdueForAgency": 28
+  }
+}

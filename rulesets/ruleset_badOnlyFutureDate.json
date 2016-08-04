@@ -1,0 +1,14 @@
+{
+  "2023-02-22": {
+    "overduePercentage": 0.05,
+    "minOverdueCharge": 2.00,
+    "daysOverdueForRep": 14,
+    "daysOverdueForAgency": 28
+  },
+  "2024-02-22": {
+    "overduePercentage": 0.03,
+    "minOverdueCharge": 3.00,
+    "daysOverdueForRep": 14,
+    "daysOverdueForAgency": 28
+  }
+}
